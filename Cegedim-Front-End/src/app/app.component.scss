@@ -1,0 +1,28 @@
+.container 
+ {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    .item
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        padding: 3rem;
+    }
+ }
+
+.space{
+    padding: 0px 10px 0px 10px!important;
+}
+
+ table {
+    width: 100%;
+}
+
+.title {
+    padding: 2em;
+    text-align: center;
+}
